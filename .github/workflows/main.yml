@@ -3,6 +3,8 @@ on: [push]
 jobs:
   test:
     runs-on: ubuntu-latest
+    env:
+      WANDB_API_KEY: ${{ secrets.WANDB_API_KEY }}
     steps:
       - uses: actions/checkout@v3
       - name: Set up Python
@@ -14,4 +16,3 @@ jobs:
           pip install numpy pandas matplotlib scikit-learn wandb opencv-python-headless
       - name: Run main script
         run: python main.py
-
