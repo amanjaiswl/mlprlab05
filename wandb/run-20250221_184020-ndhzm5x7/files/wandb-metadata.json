@@ -1,0 +1,27 @@
+{
+  "os":  "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2025-02-21T13:10:20.358937Z",
+  "program":  "/home/aman/sem4/mlpr/assgn/lab5/main.py",
+  "codePath":  "main.py",
+  "email":  "alwaysbuzzingchannel@gmail.com",
+  "root":  "/home/aman/sem4/mlpr/assgn/lab5",
+  "host":  "LAPTOP-M0VLK9L6",
+  "executable":  "/home/aman/sem4/mlpr/assgn/lab5/venv/bin/python3",
+  "codePathLocal":  "main.py",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "1081101176832",
+      "used":  "9477996544"
+    }
+  },
+  "memory":  {
+    "total":  "3995099136"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}
