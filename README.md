@@ -1,4 +1,4 @@
-# Distance-Based Classification Project
+# Face detection
 
 This project (under our Sem 4 course Machine Learning and Pattern Recognition lab) demonstrates an end-to-end machine learning workflow that includes distance-based classification using face detection and clustering. The project follows the provided requirements, integrating key tools such as:
 
@@ -11,9 +11,13 @@ This project (under our Sem 4 course Machine Learning and Pattern Recognition la
 ## The output images are here :
 
 ### clustering_plot
-![image](https://github.com/user-attachments/assets/2fe3d775-674f-421f-a977-d940b8f19e51)
+![image](https://github.com/user-attachments/assets/5271ce19-f3e9-4c3a-a98c-2145423e38ab)
 
 
 ### faces_detected
-![image](https://github.com/user-attachments/assets/77baa854-7a27-4d3a-8aa9-8a6b20c0edf7)
+![image](https://github.com/user-attachments/assets/abfa3725-84d3-4e1c-8983-59fa86b23642)
+
+### final_scatter_plot
+![image](https://github.com/user-attachments/assets/8cd7cbd2-b9e5-4d41-9ff0-44243f242895)
+
 
